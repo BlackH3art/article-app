@@ -1,0 +1,19 @@
+{
+  "name": "article-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackH3art/article-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackH3art/article-app/issues"
+  },
+  "homepage": "https://github.com/BlackH3art/article-app#readme"
+}
